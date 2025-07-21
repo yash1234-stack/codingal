@@ -14,3 +14,5 @@ name = ["yash","aditi", "poonam", "virat", "jai"]
 date = ['30/03/2008','02/06/2008','10/10/2008','19/9/2008', '29/02/2008']
 for i in range(len(name)):
     print(name[i], end="\t"); print(date[i])
+
+
