@@ -5,7 +5,8 @@ poonam = '10/10/2008'
 virat = '19/9/2008'
 jai = '29/02/2008'
 print(yash+" "+Aditi+" "+poonam+ " "+virat+" "+jai+" "+"\n")
-'''can be printed through a simple print stattement as shown above but that through that you will not get the corresponding names
+'''
+can be printed through a simple print stattement as shown above but that through that you will not get the corresponding names
 therefore the bottom code can be used
 ''' 
 i=0
