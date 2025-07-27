@@ -21,7 +21,10 @@ Notes = [500, 200, 100, 50, 20, 10]
 a=input("enter amount")
 a=int(a)
 sum=0
-for i in range(len(Notes)):
-    sum=a//Notes[i]
-    a%=Notes[i]
-    print(f"{Notes[i]} is {sum}")
+
+
+ 
+# for i in range(len(Notes)):
+#     sum=a//Notes[i]
+#     a%=Notes[i]
+#     print(f"{Notes[i]} is {sum}")
