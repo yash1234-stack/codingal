@@ -7,3 +7,4 @@ print(type(b))
 b=str(b)
 print(type(b))
 print(input("hi lol"))
+#subtext
